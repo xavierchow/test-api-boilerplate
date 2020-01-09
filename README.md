@@ -58,13 +58,6 @@ Workflow with `npm version`:
 4. Run the `npm version [path|minor|major]` command
 5. Push
 
-## Enable verbose trace log
-
-see: https://github.com/Wiredcraft/api-boilerplate/issues/54
-
-```
-VERBOSE_TRACE_LOG=true make test
-```
 
 ## Use the Prettier formatter with IDE
 
