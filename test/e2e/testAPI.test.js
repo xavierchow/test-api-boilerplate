@@ -3,7 +3,6 @@
 const request = require('supertest');
 const app = require('../../server/server');
 
-// useless test
 describe('Test API', () => {
   it('should return 404 response', () => {
     return request(app)
