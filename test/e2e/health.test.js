@@ -10,7 +10,6 @@ test('health api should return status', () => {
     .set('Accept', 'application/json')
     .expect(200)
     .then(res => {
-      expect(typeof res).toBe('object');
       expect(typeof res.body).toBe('object');
       expect(typeof res.body.started).toBe('string');
       expect(typeof res.body.uptime).toBe('number');
