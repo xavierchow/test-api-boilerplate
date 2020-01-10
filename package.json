@@ -19,7 +19,7 @@
     "prepush": "make lint"
   },
   "author": {
-    "name": "Wiredcraft",
+    "name": "Xavier",
     "email": "",
     "url": ""
   },
