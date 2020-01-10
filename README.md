@@ -59,9 +59,4 @@ Workflow with `npm version`:
 5. Push
 
 
-## Use the Prettier formatter with IDE
 
-- install the [plugins](https://prettier.io/docs/en/editors.html) for the editor you use.
-- enable `formatting on save` (eg: VScode).
-
-and the file will be formated nicely with a unified style when ever you save the file.
