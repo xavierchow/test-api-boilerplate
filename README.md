@@ -58,5 +58,3 @@ Workflow with `npm version`:
 4. Run the `npm version [path|minor|major]` command
 5. Push
 
-
-
