@@ -14,30 +14,6 @@ Copy whatever you need.
 
 See `/dockers/README.md`.
 
-### Modules
-
-```bash
-# Core
-yarn add bluebird debug
-# Config
-yarn add env-var-defaults
-# Core Loopback
-yarn add loopback loopback-extended-lib
-# Core Middlewares
-yarn add helmet serve-favicon strong-error-handler strong-remoting
-# Loggers
-yarn add bunyan bunyan-debug-stream bunyan-logger express-bunyan-logger syslog-bunyan-logger
-# DB / Datasource
-yarn add loopback-connector loopback-datasource-juggler
-# Mixins
-yarn add loopback-ds-timestamp-mixin
-# Tools
-yarn add http-errors uuid
-# Lint
-yarn add --dev eslint eslint-config-wcl-backend
-# Dev
-yarn add --dev coveralls istanbul mocha nodemon should supertest
-```
 
 ## Commit
 
