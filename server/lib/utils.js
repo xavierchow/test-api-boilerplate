@@ -1,5 +1,6 @@
 'use strict';
 
+// singleton
 let func;
 exports.getTransactionId = function(attr) {
   if (!func) {
