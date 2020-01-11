@@ -4,6 +4,7 @@ const request = require('supertest');
 
 const app = require('../../server/server');
 
+// testing
 test('health api should return status', () => {
   return request(app)
     .get('/health')
