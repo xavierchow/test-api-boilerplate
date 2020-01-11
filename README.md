@@ -7,12 +7,6 @@ Boilerplate for a (Node.js based) API or web service.
 
 Copy whatever you need.
 
-## What's included/used
-
-### Docker boxes
-
-See `/dockers/README.md`.
-
 
 ## Commit
 
