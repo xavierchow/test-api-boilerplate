@@ -3,9 +3,6 @@
 
 Boilerplate for a (Node.js based) API or web service.
 
-## How to use
-
-Copy whatever you need.
 
 
 ## Commit
