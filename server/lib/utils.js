@@ -1,5 +1,6 @@
 'use strict';
 
+// singleton
 let func;
 // todo
 exports.getTransactionId = function(attr) {
